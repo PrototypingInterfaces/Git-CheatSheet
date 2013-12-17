@@ -2,7 +2,8 @@ GitBasics
 =========
 
 ### Comiting
-Ass and commit all changes with one command
+Add and commit all changes with one command
+
 	git commit -am "descriptive text etc"
 
 ### Branches
